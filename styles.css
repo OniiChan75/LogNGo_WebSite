@@ -18,7 +18,7 @@ background:  url("../images/Home_Page.png") no-repeat fixed center;
   font-size: large;
   text-transform: uppercase;
   margin: 0 10px;
-  text-shadow: rgb(202, 169, 24);}
+  text-shadow: #95ABC3;}
 video#bgVideo {
 position: fixed;
 right: 0;
@@ -142,7 +142,7 @@ nav.shift ul li a:after {
   height: 1px;
   content: '.';
   color: transparent;
-  background: #ebc73a;
+  background: #95ABC3;
   visibility: none;
   opacity: 0;
   z-index: -1;
