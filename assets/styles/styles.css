@@ -5,11 +5,6 @@
     height: auto;
 }
 
-body
-{
-background:  url("../images/Home_Page.png") no-repeat fixed center;
-
-}
 .contenttext{
   display: block;
   padding: 1px;
@@ -43,10 +38,7 @@ background-size: cover;
 nav {
   width: 100%;
   margin: 0 auto;
-  background: #fff;
   padding: 1px 0;
-  /* opacity:70%;*/
-  box-shadow: 0px 5px 0px #dedede;
 }
 nav ul {
   list-style: none;
